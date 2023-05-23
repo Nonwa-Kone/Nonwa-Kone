@@ -1,6 +1,7 @@
 ## A PROPOS DE MOI
 
 Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa. Spécialisé dans le développement des applications web et mobile.
+Rigoureux, organisé, réactif, et ouvert d’esprit : Capacité à gérer le stress ; Leadership ; Esprit d’équipe ; ponctuelle ; Aisance relationnelle ; Sens de la communication et d’adaptation ;
 
 ### OBJECTIF
 
