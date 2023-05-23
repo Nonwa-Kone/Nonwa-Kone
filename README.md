@@ -1,6 +1,6 @@
 ## A PROPOS DE MOI
 
-Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa. Spécialiser dans le développement des applications web et mobile.
+Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa. Spécialisé dans le développement des applications web et mobile.
 
 ### OBJECTIF
 
@@ -28,6 +28,7 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 
 ### 👉 EXPERIENCES PROFESSIONNELLES
 
+-----------------------------------------------------------------------------------------------------------------
 #### STAGE DE PERFECTIONNEMENT A MOZAR GROUP
 #### DEVELOPPEUR WEB
 #### Jan. 2023 – Aujourd’hui
@@ -36,6 +37,7 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 #### ——	Réalisation d’un site vitrine pour l’entreprise Siho Couverture situé en France
 #### ——	Conception d’une application de gestion des clients
 
+-----------------------------------------------------------------------------------------------------------------
 #### STAGE ECOLE A AIG SARL U
 #### STAGIAIRE INFORMATICIEN DEVELOPPEUR D’APPLICATION
 #### Oct. 2021 – Avr. 2022
@@ -43,6 +45,7 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 #### ——	Conception et réalisation d’un site web ;
 #### ——	Conception d’une base de donnée de gestion des clients ;
 
+-----------------------------------------------------------------------------------------------------------------
 #### DEVELOPPEUR WEB FULLSTACK
 #### A MON COMPTE
 #### Tâches ;
