@@ -18,11 +18,11 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 
 ### 👉 COMPETENCES
 
-	Création de site web
-	Création d’application web
-	Conception des API REST avec NodeJS
-	Conception en MERSIE
-	Base de donnée MySQL, SQL ite, Mongo DB
+#### 🫵	Création de site web
+#### 🫵	Création d’application web
+#### 🫵	Conception des API REST avec NodeJS
+#### 🫵	Conception en MERSIE
+#### 🫵	Base de donnée MySQL, SQL ite, Mongo DB
 
 ### 👉 EXPERIENCES PROFESSIONNELLES
 
