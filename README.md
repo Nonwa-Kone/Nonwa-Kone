@@ -29,25 +29,25 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 ### 👉 EXPERIENCES PROFESSIONNELLES
 
 -----------------------------------------------------------------------------------------------------------------
-#### STAGE DE PERFECTIONNEMENT A MOZAR GROUP
-#### DEVELOPPEUR WEB
-#### Jan. 2023 – Aujourd’hui
+#### 🏢 STAGE DE PERFECTIONNEMENT A MOZAR GROUP
+#### 🧑‍💻 DEVELOPPEUR WEB
+#### 📅 Jan. 2023 – Aujourd’hui
 #### Tâches ;
 #### ——	Réalisation du site web de MOZAR GROUP
 #### ——	Réalisation d’un site vitrine pour l’entreprise Siho Couverture situé en France
 #### ——	Conception d’une application de gestion des clients
 
 -----------------------------------------------------------------------------------------------------------------
-#### STAGE ECOLE A AIG SARL U
-#### STAGIAIRE INFORMATICIEN DEVELOPPEUR D’APPLICATION
-#### Oct. 2021 – Avr. 2022
+#### 🏢 STAGE ECOLE A AIG SARL U
+#### 🧑‍💻 STAGIAIRE INFORMATICIEN DEVELOPPEUR D’APPLICATION
+#### 📅 Oct. 2021 – Avr. 2022
 #### Tâches ;
 #### ——	Conception et réalisation d’un site web ;
 #### ——	Conception d’une base de donnée de gestion des clients ;
 
 -----------------------------------------------------------------------------------------------------------------
-#### DEVELOPPEUR WEB FULLSTACK
-#### A MON COMPTE
+#### 🏢 DEVELOPPEUR WEB FULLSTACK
+#### 🏡 A MON COMPTE
 #### Tâches ;
 #### ——	Conception d’une application de gestion des agences Mobile Money
 #### ——	Conception d’une calculatrice en JavaScript
