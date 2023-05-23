@@ -1,4 +1,4 @@
-### A PROPOS DE MOI
+## A PROPOS DE MOI
 
 Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa. Spécialiser dans le développement des applications web et mobile.
 
@@ -18,11 +18,11 @@ Je me nomme Kone Nonwa, de nationalité Ivoirienne née le 17/08/1998 à Gagnoa.
 
 ### 👉 COMPETENCES
 
-#### 🫵	Création de site web
-#### 🫵	Création d’application web
-#### 🫵	Conception des API REST avec NodeJS
-#### 🫵	Conception en MERSIE
-#### 🫵	Base de donnée MySQL, SQL ite, Mongo DB
+#### ——	Création de site web
+#### ——	Création d’application web
+#### ——	Conception des API REST avec NodeJS
+#### ——	Conception en MERSIE
+#### ——	Base de donnée MySQL, SQL ite, Mongo DB
 
 ### 👉 EXPERIENCES PROFESSIONNELLES
 
@@ -30,23 +30,23 @@ STAGE DE PERFECTIONNEMENT A MOZAR GROUP
 DEVELOPPEUR WEB
 Jan. 2023 – Aujourd’hui
 Tâches ;
-	Réalisation du site web de MOZAR GROUP
-	Réalisation d’un site vitrine pour l’entreprise Siho Couverture situé en France
-	Conception d’une application de gestion des clients
+——	Réalisation du site web de MOZAR GROUP
+——	Réalisation d’un site vitrine pour l’entreprise Siho Couverture situé en France
+——	Conception d’une application de gestion des clients
 
 STAGE ECOLE A AIG SARL U
 STAGIAIRE INFORMATICIEN DEVELOPPEUR D’APPLICATION
 Oct. 2021 – Avr. 2022
 Tâches ;
-	Conception et réalisation d’un site web ;
-	Conception d’une base de donnée de gestion des clients ;
+——	Conception et réalisation d’un site web ;
+——	Conception d’une base de donnée de gestion des clients ;
 
 DEVELOPPEUR WEB FULLSTACK
 A MON COMPTE
 Tâches ;
-	Conception d’une application de gestion des agences Mobile Money
-	Conception d’une calculatrice en JavaScript
-	Conception d’un Todo List en JavaScript ;
+——	Conception d’une application de gestion des agences Mobile Money
+——	Conception d’une calculatrice en JavaScript
+——	Conception d’un Todo List en JavaScript ;
 	Conception d’un système de génération de mot de passe en JavaScript
 
 
